@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<title>Halaman Profil - Dicky Muhammad Priangga</title>
 		<link type="text/css" href="style.css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|PT+Sans" rel="stylesheet">
 	</head>
