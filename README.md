@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Halaman Profil - Dicky Muhammad Priangga</title>
