@@ -1,0 +1,14 @@
+.navbar-default
+{
+	background-color: #598CB3
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus 
+{
+    background-color: #3A709A;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+	color: #FFF;
+}
