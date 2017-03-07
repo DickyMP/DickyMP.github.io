@@ -56,13 +56,9 @@
 	font-size: 12;
 }
 
-#profile-contact:hover
+#profile-contact:hover, #profile-contact:hover > a
 {
 	background-color: #015249;
-}
-
-#profile-contact:hover > ul, #profile-contact:hover > ul > li > a
-{
 	color: #FFF;
 }
 
