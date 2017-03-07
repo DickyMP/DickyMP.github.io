@@ -49,13 +49,7 @@
 {
 	background-color: #A4E86B;
 	border-radius: 15px;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	padding-right: 30px;
-}
-
-#profile-contact ul
-{
+	padding: 30px;
 	list-style-type: none;
 	font-family: Verdana;
 	color: #1B9460;
