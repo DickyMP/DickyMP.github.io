@@ -12,3 +12,96 @@
 {
 	color: #FFF;
 }
+
+#profile-header
+{
+	background-color: #A4E86B;
+	border-radius: 15px;
+	padding: 20px 50px;
+}
+
+#profile-header h1
+{
+	color: #1B9460;
+	display: inline-block;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#profile-header h2
+{
+	color: #1B9460;
+	display: inline-block;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+
+#profile-header:hover
+{
+	background-color: #015249;
+}
+
+#profile-header:hover > h1, #profile-header:hover > h2
+{
+	color:#FFF;
+}
+
+#profile-contact
+{
+	background-color: #A4E86B;
+	border-radius: 15px;
+	padding: 30px 20px;
+}
+
+#profile-contact ul
+{
+	list-style-type: none;
+	font-family: Verdana;
+	color: #1B9460;
+	font-size: 12;
+}
+
+#profile-contact:hover
+{
+	background-color: #015249;
+}
+
+#profile-contact:hover > ul, #profile-contact:hover > ul > li > a
+{
+	color: #FFF;
+}
+
+#profile-experience
+{
+	background-color: #57BC91;
+	border-radius: 15px;
+	padding: 20px;
+}
+
+#profile-exp-header
+{
+	background-color: #015249;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img 
+{
+    width: 70%;
+    margin: auto;
+}
+
+#profile-portofolio
+{
+	background-color: #57BC91;
+	border-radius: 15px;
+	padding: 20px;
+}
+
+#profile-port-header
+{
+	background-color: #015249;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
