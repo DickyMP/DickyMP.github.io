@@ -1,0 +1,344 @@
+body 
+{
+	background: url(axlred-bg.png) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.hidden
+{
+	opacity: 0;
+}
+
+.visible
+{
+	opacity:1;
+}
+
+.col-centered
+{
+	float: none;
+	margin: 0 auto;
+}
+
+.navbar-default
+{
+	background-color: #FFA4A4;
+}
+
+.navbar-brand
+{
+	font-family: 'Press Start 2P', cursive;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus 
+{
+    background-color: #D90000;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+	color: #A70000;
+	font-family: 'Press Start 2P', cursive;
+}
+
+#company-profile
+{
+	background-color: #FF7070;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Bangers', cursive;
+	color: #000000;
+	font-size: 22px;
+	transition: .5s;
+}
+
+#general-info
+{
+	background-color: #FF7070;
+	border-radius: 15px;
+	padding-top : 30px;
+	transition: .5s;
+}
+
+#general-info > ul > li > pre
+{
+	font-family: 'Bangers', cursive;
+	color: #000000;
+	font-size: 22px;
+}
+
+#project-starjoust-vid
+{
+	background-color: #3D5093;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+}
+
+#project-maskantara-vid
+{
+	background-color: #D5380B;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+}
+
+#project-bkp-vid
+{
+	background-color: #F7BE4A;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+}
+
+#project-timesnap-vid
+{
+	background-color: #FF7C25;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+}
+
+#project-cleanrush-vid
+{
+	background-color: #A73723;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+}
+
+#project-starjoust
+{
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#project-maskantara
+{
+	background-color: #D5380B;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+	font-family: 'Courgette', cursive;
+	color: #FFFFFF;
+	font-size: 24px;
+	transition: .5s;
+}
+
+#project-bkp
+{
+	background-color: #0083CB;
+	border-radius: 15px;
+	padding : 30px;
+	transition: .5s;
+	font-family: 'Handlee', cursive;
+	color: #F7BE4A;
+	font-size: 24px;
+	transition: .5s;
+}
+
+#project-timesnap
+{
+	padding : 30px;
+	transition: .5s;
+	font-family: 'Fjalla One', sans-serif;
+	color: #000000;
+	font-size: 24px;
+	transition: .5s;
+}
+
+#project-cleanrush
+{
+	padding : 30px;
+	transition: .5s;
+	font-family: 'Indie Flower', cursive;
+	color: #FFFFFF;
+	font-size: 30px;
+	transition: .5s;
+}
+
+
+#sub-about-me-text
+{
+	background-color: #BB000E;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#sub-about-me-text:hover
+{
+	background-color: #111111;
+	color: #BB000E;
+}
+
+#sub-general-info-text
+{
+	background-color: #BB000E;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#sub-general-info-text:hover
+{
+	background-color: #111111;
+	color: #BB000E;
+}
+
+#sub-skill-text
+{
+	background-color: #BB000E;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#sub-skill-text:hover
+{
+	background-color: #111111;
+	color: #BB000E;
+}
+
+#sub-projects-text
+{
+	background-color: #BB000E;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#sub-projects-text
+{
+	background-color: #BB000E;
+	border-radius: 15px;
+	padding: 30px;
+	font-family: 'Press Start 2P', cursive;
+	color: #FFFFFF;
+	font-size: 12;
+	transition: .5s;
+}
+
+#sub-back-starjoust
+{
+	background: url(starjoust-bg.png) no-repeat center center;
+  	-webkit-background-size: contain;
+  	-moz-background-size: contain;
+  	-o-background-size: contain;
+  	background-size: contain;
+  	background-color: #000000;
+	padding : 50px 10% 50px 10%;
+}
+
+#sub-back-maskantara
+{
+	background: url(maskantara-bg.png) no-repeat center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	padding : 50px 100px 50px 100px;
+}
+
+#sub-back-bkp
+{
+	background: url(bkp-bg.png) no-repeat center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	padding : 50px 100px 50px 100px;
+}
+
+#sub-back-timesnap
+{
+	background: url(timesnap-bg.png) no-repeat center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	padding : 50px 100px 50px 100px;
+}
+
+#sub-back-cleanrush
+{
+	background: url(cleanrush-bg.png) no-repeat center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	padding : 50px 100px 50px 100px;
+}
+
+#sub-projects-text:hover
+{
+	background-color: #111111;
+	color: #BB000E;
+}
+
+#company-profile:hover
+{
+	background-color: #A70000;
+	color: #FFF;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img 
+{
+    width: 70%;
+    margin: auto;
+}
+
+#company-highlight
+{
+	background-color: #FF7070;
+	border-radius: 15px;
+	padding: 30px;
+	color: #D90000;
+	font-size: 12;
+	transition: .5s;
+}
+
+#company-contact
+{
+	background-color: #FF7070;
+	border-radius: 15px;
+	padding: 30px;
+	color: #D90000;
+	font-size: 12;
+	transition: .5s;
+}
+
+#company-highlight-header
+{
+	background-color: #A70000;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: #FFF;
+	border-radius: 15px;
+	padding: 20px;
+}
+
+#company-contact-header
+{
+	background-color: #A70000;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: #FFF;
+	border-radius: 15px;
+	padding: 20px;
+}
