@@ -59,6 +59,7 @@ body
 	border-radius: 15px;
 	padding-top : 30px;
 	transition: .5s;
+	text-align: center;
 }
 
 #general-info > ul > li
@@ -66,7 +67,7 @@ body
 	text-align: center;
 	font-family: 'Bangers', cursive;
 	color: #000000;
-	font-size: 22px;
+	font-size: calc(20px + .5vw);;
 }
 
 #project-starjoust-vid
@@ -113,7 +114,7 @@ body
 {
 	font-family: 'Press Start 2P', cursive;
 	color: #FFFFFF;
-	font-size: 12;
+	font-size: calc(10px + .5vw);
 	transition: .5s;
 }
 
@@ -125,7 +126,7 @@ body
 	transition: .5s;
 	font-family: 'Courgette', cursive;
 	color: #FFFFFF;
-	font-size: 24px;
+	font-size: calc(20px + .5vw);
 	transition: .5s;
 }
 
@@ -137,7 +138,7 @@ body
 	transition: .5s;
 	font-family: 'Handlee', cursive;
 	color: #F7BE4A;
-	font-size: 24px;
+	font-size: calc(20px + .5vw);
 	transition: .5s;
 }
 
@@ -147,7 +148,7 @@ body
 	transition: .5s;
 	font-family: 'Fjalla One', sans-serif;
 	color: #000000;
-	font-size: 24px;
+	font-size: calc(20px + .5vw);
 	transition: .5s;
 }
 
@@ -157,7 +158,7 @@ body
 	transition: .5s;
 	font-family: 'Indie Flower', cursive;
 	color: #FFFFFF;
-	font-size: 30px;
+	font-size: calc(20px + .5vw);
 	transition: .5s;
 }
 
